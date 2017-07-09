@@ -4,8 +4,6 @@
   "babel": {
     "presets": [
       "es2015",
-      "es2016",
-      "es2017",
       "react"
     ]
   },
@@ -33,7 +31,7 @@
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.6.1",
-    "webpack": "^3.0.0",
+    "webpack": "^2.2.0",
     "webpack-dev-server": "^2.5.0"
   }
 }
